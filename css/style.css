@@ -1,0 +1,54 @@
+* {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  color: gray;
+}
+
+.top {
+  background-image: url(../resources/building1.jpg);
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 70px;
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px;
+}
+
+.top p, a {
+  color: #fff;
+}
+
+.nav {
+  font-size: 18px;
+  color: #fff;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  }
+
+h2 {
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .banr {
+    background-image: url(../resources/building1.jpg);
+    background-repeat: no-repeat;
+    max-height: 30px;
+    font-weight: bold;
+    color: #fff;
+	font-size: 23px;
+  }
+
+  .footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: #fff;
+	text-align: left;
+  }
+
+a footer {
+	color: #fff;
+}
